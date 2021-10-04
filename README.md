@@ -1,0 +1,2 @@
+# webSnippets
+Web snippets collection.
